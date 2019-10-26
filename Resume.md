@@ -49,10 +49,10 @@
 ## Professional Experience
 
 ### Mindtree Technical - Project Manager
-(Oct 2017- till current)
+***(Oct 2017- till current)***
 
 ### Tata Consultancy Services - Assistant Consultant
-(Aug 2006 – Jul,2017)
+***(Aug 2006 – Jul,2017)***
 
 
 ## Major Projects
@@ -62,8 +62,37 @@
 **Problem Solving:** Analyzed and provided approaches to create incidents in internal tool ICM
 
 ### Operations Manager, Proximus (TATA Consultancy Services Ltd.), Hyderabad, India
-(Jan 2016- Apr 2017)
+***(Jan 2016- Apr 2017)***
 * **Process Improvement:** Transitioned the team to distributed Agile Kanban methodology to manage and track incidents, which resulted into more efficiency and lower open incidents.
 * **Resource Management:** Managed the staffing and shuffling of resources as per the project’s schedule and budget constraints.
 * **Status Reports:** Preparing weekly, monthly and quarterly reports using Power BI Dashboards.
 * **Scrum Master:** Built and mentored the cross functional team which was working for the first time in agile model at offshore location in India.
+
+### Program Manager, Proximus (TATA Consultancy Services Ltd.), Hyderabad, India
+***(Jul 2013-Dec 2015)***
+* Application Portfolio Management: Helped client in managing more than 70 applications. It required production support, maintenance and enhancements if any. Improved application portfolio&#39;s health by decommissioning redundant applications, merging applications, and transferring apps to correct team amid internal resistance.
+* Project Management: Created project schedules, status reports and tracked the deliverables per the project release plan.
+* Process Improvement: worked on a proposal to bring in managed services for production support. This proposal brought in financial efficiency of 15%.
+* Worked on managed services contract for TCS and Proximus.
+* Worked on SSIS tool to migrate from an old application to new web application.
+
+### Associate Project Manager, Hilton Worldwide Inc. (TATA Consultancy Services), Hyderabad, India
+***(Feb 2011 - Feb 2013)***
+* Analyzed and review change requests: Helped in classification of Business as Usual requests(BAU)- created a knowledge base and moved the work to L1 and reduce tickets.
+* Planning and responsible for deliverable.
+* Working on change requests using ASP.Net as front end and SQL as backend.
+* Worked on custom reports using SSRS.
+
+### Lead Software Developer, Humana Inc. (TATA Consultancy Services), Noida, India
+***(Sep 2008 - Jan 2011)***
+* Analyzed business requirements and created business use cases and provided estimations.
+* Performed code reviews, deployment and production support.
+* Worked on sprints using Version One tool.
+* Work involved enhancements and production support.
+* Enhancements were done in ASP.NET-MVC and SQL Sever
+* Worked on SSRS reports as per the client &#39;s needs.
+
+### Developer, Bechtel (TATA Consultancy Services), Gurgaon, India
+***(Aug 2006 - Aug 2008)***
+
+Developed and enhanced a variety of web and windows applications on .Net Framework with C# using ASP.Net, JavaScript, AJAX, CSS, HTML, SQL Server.
