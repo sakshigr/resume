@@ -1,6 +1,6 @@
 sakshee.grover@gmail.com | 206.696.3164 | [LinkedIn](https://www.linkedin.com/in/sakshi-grover-1539068/)
 # Sakshi Grover - PMP, CSM
----
+
 
 ## Experience Overview
 * Professional offering an experience of 11+ years in IT Industry, with last 6 years in end-to-end project management involving software enhancement projects and production support.
