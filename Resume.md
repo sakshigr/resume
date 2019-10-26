@@ -96,3 +96,14 @@
 ***(Aug 2006 - Aug 2008)***
 
 Developed and enhanced a variety of web and windows applications on .Net Framework with C# using ASP.Net, JavaScript, AJAX, CSS, HTML, SQL Server.
+
+## Notable Achievements
+* 2016 – Best Team – Tata Consultancy Services, Proximus
+* 2012 – Star of the Month – Humana Inc.
+
+## Educational Qualification
+*Bachelor of Engineering, Civil Engineering, Delhi College of Engineering, Delhi, India, 2002-2006*
+
+## Certifications
+*PMI PMP® Project Management Professional*
+*Scrum Alliance CSM Certified Scrum Master*
