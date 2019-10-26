@@ -53,10 +53,10 @@ sakshee.grover@gmail.com | 206.696.3164 | [LinkedIn](https://www.linkedin.com/in
 ## Professional Experience
 
 ### Mindtree Technical - Project Manager
-***(Oct 2017- till current)***
+***(Oct 2017 - till current)***
 
 ### Tata Consultancy Services - Assistant Consultant
-***(Aug 2006 – Jul,2017)***
+***(Aug 2006 – Jul, 2017)***
 
 
 ## Major Projects
@@ -66,14 +66,14 @@ sakshee.grover@gmail.com | 206.696.3164 | [LinkedIn](https://www.linkedin.com/in
 **Problem Solving:** Analyzed and provided approaches to create incidents in internal tool ICM
 
 ### Operations Manager, Proximus (TATA Consultancy Services Ltd.), Hyderabad, India
-***(Jan 2016- Apr 2017)***
+***(Jan 2016 - Apr 2017)***
 * **Process Improvement:** Transitioned the team to distributed Agile Kanban methodology to manage and track incidents, which resulted into more efficiency and lower open incidents.
 * **Resource Management:** Managed the staffing and shuffling of resources as per the project’s schedule and budget constraints.
 * **Status Reports:** Preparing weekly, monthly and quarterly reports using Power BI Dashboards.
 * **Scrum Master:** Built and mentored the cross functional team which was working for the first time in agile model at offshore location in India.
 
 ### Program Manager, Proximus (TATA Consultancy Services Ltd.), Hyderabad, India
-***(Jul 2013-Dec 2015)***
+***(Jul 2013 - Dec 2015)***
 * Application Portfolio Management: Helped client in managing more than 70 applications. It required production support, maintenance and enhancements if any. Improved application portfolio&#39;s health by decommissioning redundant applications, merging applications, and transferring apps to correct team amid internal resistance.
 * Project Management: Created project schedules, status reports and tracked the deliverables per the project release plan.
 * Process Improvement: worked on a proposal to bring in managed services for production support. This proposal brought in financial efficiency of 15%.
