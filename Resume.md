@@ -3,7 +3,7 @@ sakshee.grover@gmail.com | 206.696.3164 | [LinkedIn](https://www.linkedin.com/in
 
 
 ## Experience Overview
-* Professional offering an experience of 11+ years in IT Industry, with last 6 years in end-to-end project management involving software enhancement projects and production support.
+* Professional offering an experience of 13+ years in IT Industry, with last 6 years in end-to-end project management involving software enhancement projects and production support.
 * Currently working with Microsoft -clouds team which is involved in preparing data for Capacity planning and forecasting team.
 * Experienced in managing projects in both Agile and waterfall model with teams spread across different geographical locations.
 * Experienced in various domains like Azure Cloud, Telecom, Hospitality, Health Insurance, construction.
